@@ -1,5 +1,5 @@
 {
-    "name": "kyon147/laravel-shopify",
+    "name": "arjun-lumino/laravel-shopify",
     "description": "Shopify package for Laravel to aide in app development",
     "keywords": [
         "api",
@@ -19,7 +19,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Luke (Kyon147)",
+            "name": "arjun-lumino",
             "email": "support@appydesign.co.uk"
         }
     ],
